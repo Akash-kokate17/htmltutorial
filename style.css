@@ -1,0 +1,25 @@
+ul
+{
+    background-color: pink;
+    display: flex;
+    justify-content:space-evenly;
+    height: 30px;
+padding-top: 10px;
+    margin-top: 10px;
+
+}
+
+
+a
+{
+    text-decoration: none;
+    color: black;   
+   
+}
+
+li{
+    list-style-type: none; 
+    color: rgb(34, 34, 100);
+
+ }
+    
